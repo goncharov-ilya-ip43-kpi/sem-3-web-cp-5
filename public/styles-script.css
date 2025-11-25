@@ -1,0 +1,10 @@
+.content__topbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.content__bottombar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
