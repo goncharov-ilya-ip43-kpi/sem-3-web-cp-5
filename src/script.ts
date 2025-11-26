@@ -239,4 +239,4 @@ const imageManager = new ImageManager();
 const formAddButton = document.getElementById("header_button");
 formAddButton?.addEventListener("click", function() {
     imageManager.formElement.style.display = "initial";
-})
+});
